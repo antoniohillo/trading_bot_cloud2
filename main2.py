@@ -1,4 +1,4 @@
-# main1.py
+# main2.py
 
 from scanner2 import scan_all_stocks
 import time
